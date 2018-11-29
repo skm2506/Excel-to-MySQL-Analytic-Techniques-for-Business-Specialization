@@ -1,6 +1,6 @@
 ## About this Course:-
 ###
-mportant: The focus of this course is on math - specifically, data-analysis concepts and methods - not on Excel for its own sake.
+Important: The focus of this course is on math - specifically, data-analysis concepts and methods - not on Excel for its own sake.
 We use Excel to do our calculations, and all math formulas are given as Excel Spreadsheets, but we do not attempt to cover Excel Macros,
 Visual Basic, Pivot Tables, or other intermediate-to-advanced Excel functionality.
 
